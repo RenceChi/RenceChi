@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clark Lawrence T. Ching</h1>
 <h3 align="center">I am a second-year BS Computer Science student at New Era University with a strong passion for learning and a keen interest in programming and coding. I am dedicated to expanding my technical skills and applying them to create innovative solutions.</h3>
 
+
 <h1 align="left">Education</h1>
 <h2 align="left">Elementary</h2>
 <h4 align="left">United International Private School - Dubai, UAE</h4>
