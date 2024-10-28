@@ -16,7 +16,7 @@
 <h4 align="left">With High Honors</h4>
 
 <h1 align="left">Certification</h1>
-<h4 align"left">https://courses.cognitiveclass.ai/certificates/b1325463ff5d4242b177bfe5270cf61c</h4>
+<h4><a href="https://courses.cognitiveclass.ai/certificates/b1325463ff5d4242b177bfe5270cf61c">SQL and Relational Databases 101</a></h4>
 <h1 align="left">Skillsets</h1>
 
 
