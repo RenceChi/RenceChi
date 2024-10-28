@@ -6,24 +6,18 @@
 
 
 <h1 align="left">Education :school: </h1>
-<h2 align="left">Elementary</h2>
-<h4 align="left">United International Private School - Dubai, UAE</h4>
-<h4 align="left">With Honors</h4>
+<h4 align="left">Bachelor of Science in Computer Sciences</h4>
+<h4 align="left">New Era University Main Campus</h4>
+<h4 align="left">2023 - Present</h4>
 
-<h2 align="left">Junior High School</h2>
-<h4 align="left">United International Private School - Dubai, UAE</h4>
-<h4 align="left">With Honors</h4>
-
-<h2 align="left">Senior High School (STEM Graduate) </h2>
-<h4 align="left">New Era University Main Campus - Quezon City</h4>
-<h4 align="left">With High Honors</h4>
 
 <h1 align="left">Certification :trophy: </h1>
 <h4><a href="https://courses.cognitiveclass.ai/certificates/b1325463ff5d4242b177bfe5270cf61c">SQL and Relational Databases 101</a></h4>
 
 <h1 align="left">Skillsets :hammer_and_wrench: </h1>
 <h4 align="left">Programming Languages Tools: Java, SQL, Eclipse </h4>
-
+<h4 align="left">Problem Solving Skills </h4>
+<h4 align="left">Testing and Debugging </h4>
 
 <h1 align="left">Social Media :arrow_forward: </h1>
 <h3 align="left">Connect with me:</h3>
