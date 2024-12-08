@@ -14,7 +14,7 @@
 <h1 align="left">Certification :trophy: </h1>
 <h4><a href="https://courses.cognitiveclass.ai/certificates/b1325463ff5d4242b177bfe5270cf61c">SQL and Relational Databases 101</a></h4>
 <h4><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC50D0067EC6A7EE8F19B7F35D08296AB67F220AD1F72CC8CB230ADE98C74904">Oracle Cloud Infrastructure 2024 Foundations Associate</a></h4>
-<h4><a href="*https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC50D0067EC6A7EE8F19B7F35D08296AB67F220AD1F72CC8CB230ADE98C74904&fbclid=IwY2xjawHCoMFleHRuA2FlbQIxMQABHW3MfOHySPLy-rUhU58bTTLPvGBp6ObtqL88P6J41yOXRTUdN1mBY3X94Q_aem_HgAJQqU74PD_B4701cXkLw">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></h4>
+<h4><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FC50D0067EC6A7EE8F19B7F35D08296AB67F220AD1F72CC8CB230ADE98C74904&fbclid=IwY2xjawHCoMFleHRuA2FlbQIxMQABHW3MfOHySPLy-rUhU58bTTLPvGBp6ObtqL88P6J41yOXRTUdN1mBY3X94Q_aem_HgAJQqU74PD_B4701cXkLw">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a></h4>
 
 <h1 align="left">Skillsets :hammer_and_wrench: </h1>
 <h4 align="left">Programming Languages Tools: Java, SQL, Eclipse </h4>
