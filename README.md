@@ -18,7 +18,7 @@
 <h4><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=8F728FC122467917CD3CA931FE5D3F1A989A6C4F75A5DA7291198F925F45FBAB&fbclid=IwY2xjawHLtPtleHRuA2FlbQIxMQABHVdSciJpxEzA1kuBLbqyaNwADqBRdICjDHKynUCYWy8fxAWnQ7L70RaGfg_aem_R3Jj1HPpQaIo-OzFHxPDHg">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate </a><a> 
 Acquired on December 15, 2024</a></h4>
 <h4><a href="https://www.codedex.io/certificates/7cae1c07-63e0-4a8c-b0ca-7e9022a71ca3">The Legend of Python </a><a> Acquired on August 27, 2025</a></h4>
-<h4><a href="[https://www.codedex.io/certificates/7cae1c07-63e0-4a8c-b0ca-7e9022a71ca3](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LE6UQYHWAF.pdf)">Pre Security </a><a> Acquired on January 30, 2026</a></h4>
+<h4><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LE6UQYHWAF.pdf">Pre Security </a><a> Acquired on January 30, 2026</a></h4>
 
 <h1 align="left">Skillsets :hammer_and_wrench: </h1>
 <h4 align="left">Programming Languages Tools: Java, SQL, Eclipse </h4>
